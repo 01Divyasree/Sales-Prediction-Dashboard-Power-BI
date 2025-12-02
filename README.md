@@ -1,7 +1,9 @@
+📘 **Sales Prediction Dashboard - Power Bi**
+
 This project includes an interactive Power BI dashboard built for analyzing sales performance across products, outlets, and categories. The dataset was cleaned, transformed, and visualized to uncover key insights that support business decision-making.
 
 
-🛠 Technologies Used
+🛠 **Technologies Used:**
 
 Power BI Desktop
 
@@ -12,7 +14,7 @@ DAX (Data Analysis Expressions)
 Excel/CSV Dataset
 
 
-📌 Dashboard Features
+📌 **Dashboard Features**
 
 ✔ Data cleaning and preprocessing
 ✔ Revenue, outlet, and product-level analysis
@@ -22,7 +24,7 @@ Excel/CSV Dataset
 ✔ Trend analysis for MRP, item visibility, and outlet performance
 
 
-📁 Project Structure
+📁 **Project Structure**
 
 Page 1: Sales Overview
 
@@ -31,7 +33,7 @@ Page 2: Outlet Performance
 Page 3: Product Insights
 
 
-🚀 How to Use the Dashboard
+🚀 **How to Use the Dashboard**
 
 Download the .pbix file from this repository.
 
@@ -40,7 +42,7 @@ Open it using Power BI Desktop.
 Interact with filters and visuals to explore insights.
 
 
-📄 Dataset Description
+📄 **Dataset Description**
 
 The dataset includes:
 
